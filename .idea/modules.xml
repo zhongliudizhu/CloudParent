@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Cloud_Parent/Cloud-Fegin/Cloud-Fegin.iml" filepath="$PROJECT_DIR$/../Cloud_Parent/Cloud-Fegin/Cloud-Fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cloud_Parent/Cloud-Order-Service/Cloud-Order-Service.iml" filepath="$PROJECT_DIR$/../Cloud_Parent/Cloud-Order-Service/Cloud-Order-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cloud_Parent/Cloud-Registry/Cloud-Registry.iml" filepath="$PROJECT_DIR$/../Cloud_Parent/Cloud-Registry/Cloud-Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloud_Parent.iml" filepath="$PROJECT_DIR$/Cloud_Parent.iml" />
+    </modules>
+  </component>
+</project>
